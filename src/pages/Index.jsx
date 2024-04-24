@@ -59,7 +59,7 @@ const ContactSection = () => {
     <Stack direction={{ base: "column", md: "row" }} spacing={10} justifyContent="center" alignItems="center">
       <ContactInfo icon={FaMapMarkerAlt} text="801 Anchor Rode Dr Unit 304 Naples, FL 34103 United States" />
       <ContactInfo icon={FaPhone} text="+1 (239) 434-9710" />
-      <ContactInfo icon={FaEnvelope} text="contact@sagewoodcr.com" />
+      <ContactInfo icon={FaEnvelope} text="info@sagewoodclinicalgroup.com" />
     </Stack>
   );
 };
