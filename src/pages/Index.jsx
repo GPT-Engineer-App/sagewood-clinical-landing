@@ -55,7 +55,7 @@ const AboutSection = () => {
 const ContactSection = () => {
   return (
     <Stack direction={{ base: "column", md: "row" }} spacing={10} justifyContent="center" alignItems="center">
-      <ContactInfo icon={FaMapMarkerAlt} text="1234 Main St, Naples, FL 34102" />
+      <ContactInfo icon={FaMapMarkerAlt} text="801 Anchor Rode Dr Unit 304 Naples, FL 34103 United States" />
       <ContactInfo icon={FaPhone} text="+1 239-555-0101" />
       <ContactInfo icon={FaEnvelope} text="contact@sagewoodcr.com" />
     </Stack>
