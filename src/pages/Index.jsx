@@ -10,8 +10,17 @@ const Index = () => {
         <HeroSection />
         <AboutSection />
         <ContactSection />
+        <QualifyInvitationSection />
       </VStack>
     </Container>
+  );
+};
+
+const QualifyInvitationSection = () => {
+  return (
+    <Box textAlign="center" py={10}>
+      <Text fontSize="xl">See if you qualify for our studies! Contact us to learn more.</Text>
+    </Box>
   );
 };
 
