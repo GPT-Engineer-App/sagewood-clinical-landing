@@ -58,6 +58,7 @@ const AboutSection = () => {
         <Text>Estamos comprometidos a ofrecer ensayos clínicos de alta calidad para ayudar a avanzar la investigación médica. Un ensayo médico es un estudio de investigación que evalúa la seguridad y eficacia de nuevos tratamientos o medicamentos en personas. Ubicados en el corazón de Naples, FL, colaboramos con empresas farmacéuticas para probar los tratamientos y medicamentos más recientes.</Text>
         <Text>Participants in our studies receive compensation for their time, with amounts up to $3,000 depending on the study. Your collaboration is invaluable in advancing medical research, benefiting the industry, and helping countless others.</Text>
         <Text>Los participantes en nuestros estudios reciben compensación por su tiempo, con montos de hasta $3,000 dependiendo del estudio. Su colaboración es invaluable para avanzar en la investigación médica, beneficiando a la industria y ayudando a innumerables personas.</Text>
+        <Text>Medical research plays a crucial role in developing new treatments and improving health outcomes. By participating in clinical trials, individuals contribute to medical advancements that can lead to better treatment options and potentially save lives.</Text>
       </VStack>
     </Box>
   );
