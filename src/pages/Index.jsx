@@ -47,6 +47,8 @@ const AboutSection = () => {
         </Heading>
         <Text>Sagewood Clinical Research is committed to providing high-quality clinical trials to help advance medical research. Located in the heart of Naples, FL, we collaborate with pharmaceutical companies to test the latest treatments and medications.</Text>
         <Text>Estamos comprometidos a ofrecer ensayos clínicos de alta calidad para ayudar a avanzar la investigación médica. Ubicados en el corazón de Naples, FL, colaboramos con empresas farmacéuticas para probar los tratamientos y medicamentos más recientes.</Text>
+        <Text>Participants in our studies receive compensation for their time. Your collaboration is invaluable in advancing medical research, benefiting the industry, and helping countless others.</Text>
+        <Text>Los participantes en nuestros estudios reciben compensación por su tiempo. Su colaboración es invaluable para avanzar en la investigación médica, beneficiando a la industria y ayudando a innumerables personas.</Text>
       </VStack>
     </Box>
   );
